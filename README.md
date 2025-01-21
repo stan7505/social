@@ -23,11 +23,11 @@ Follow Requests:
 
 Follow/unfollow functionality includes handling private accounts with follow requests.
 In-app notifications for new follow requests and real-time updates via streams.
-The app is designed with clean architecture principles, separating the domain, data, and presentation layers. This structure enhances scalability and allows seamless integration of new features or replacement of Firebase services![Screenshot_2025-01-21-16-12-23-09_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/51bff9ef-8ceb-4f06-9929-90bca139b454)
-![Screenshot_2025-01-21-16-40-26-38_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/14d507e0-a703-4a7e-a257-f0d980ba0023)
-![Screenshot_2025-01-21-16-39-43-41_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/d6e5befa-f014-42a5-8b7b-7d9dd0dce7dc)
-![Screenshot_2025-01-21-16-12-59-19_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/17edcb0f-d226-4a6d-abb2-467562d8af7c)
-![Screenshot_2025-01-21-16-12-29-77_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/f4f13ae3-dee7-4d5c-ae35-b212b33c2ed2)
-![Screenshot_2025-01-21-16-12-50-30_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/117fc9b6-448e-4757-a55c-5d44c299ab02)
-![Screenshot_2025-01-21-16-12-37-21_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/cfc66347-2983-4122-b460-ab9b9e9ea442)
-![Screenshot_2025-01-21-16-40-15-10_0d3e48acf4850bc5f8a19162b9ca1f34](https://github.com/user-attachments/assets/8d573e21-3944-4348-8bda-1d332c391029)
+The app is designed with clean architecture principles, separating the domain, data, and presentation layers. This structure enhances scalability and allows seamless integration of new features or replacement of Firebase services! <img <img src="https://github.com/user-attachments/assets/51bff9ef-8ceb-4f06-9929-90bca139b454" alt="Screenshot 1" width="300">
+        <img src="https://github.com/user-attachments/assets/14d507e0-a703-4a7e-a257-f0d980ba0023" alt="Screenshot 2" width="300">
+        <img src="https://github.com/user-attachments/assets/d6e5befa-f014-42a5-8b7b-7d9dd0dce7dc" alt="Screenshot 3" width="300">
+        <img src="https://github.com/user-attachments/assets/17edcb0f-d226-4a6d-abb2-467562d8af7c" alt="Screenshot 4" width="300">
+        <img src="https://github.com/user-attachments/assets/f4f13ae3-dee7-4d5c-ae35-b212b33c2ed2" alt="Screenshot 5" width="300">
+        <img src="https://github.com/user-attachments/assets/117fc9b6-448e-4757-a55c-5d44c299ab02" alt="Screenshot 6" width="300">
+        <img src="https://github.com/user-attachments/assets/cfc66347-2983-4122-b460-ab9b9e9ea442" alt="Screenshot 7" width="300">
+        <img src="https://github.com/user-attachments/assets/8d573e21-3944-4348-8bda-1d332c391029" alt="Screenshot 8" width="300">
